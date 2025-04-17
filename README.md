@@ -16,7 +16,7 @@
 - Backend: Python, Django, MySql Workbench
 - Frontend : Javascript, HTML, CSS
 
-## 🖥️ Cách chạy project
+## Cách chạy project
 
 ### 1. Clone repository
 
